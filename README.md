@@ -11,7 +11,7 @@ The Iris dataset is a well-known dataset in the field of machine learning.The 'i
 'PetalWidthCm' : Petal width in centimeters
 'Species'      : Species(target variable)
 
-The data is stored in the 'data/iris.csv' file.
+The data is stored in the 'iris.csv' file.
 
 
 ## Code
